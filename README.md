@@ -1,3 +1,5 @@
+Java based NMEA 0183 sentence parser
+
 ```java
 public class Main {
     public static void main(String[] args) {
